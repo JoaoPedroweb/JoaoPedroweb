@@ -5,7 +5,7 @@ Full-Stack Web Developer 💻
 ### <div align="center">Olá eu me chamo João Pedro Santos, Programador full-stack  developer 👨‍💻 🚀</div>  
   
 
-- 🔭 Atualmente estou em busca de uma vaga como Desenvolvedor.
+- 🔭 Atualmente estou em busca de uma vaga como Desenvolvedor Full stack web.
   
 
 - 🌱 Atualmente estou aprendendo Node Js, Typescript, Mysql, AWS, Firebase
