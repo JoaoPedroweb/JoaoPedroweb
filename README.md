@@ -2,7 +2,7 @@
 
 Full-Stack Web Developer 💻
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">Olá eu me chamo João Pedro Santos, Programador full-stack  developer 👨‍💻 🚀</div>  
   
 
 - 🔭 Atualmente estou em busca de uma vaga como Desenvolvedor.
@@ -61,17 +61,3 @@ Full-Stack Web Developer 💻
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
