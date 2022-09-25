@@ -8,7 +8,7 @@ Full-Stack Web Developer 💻
 - 🔭  React Js, HTML, CSS, JavaScript,.
   
 
-- 🌱 Atualmente estou aprendendo Node Js, Typescript, Mysql, AWS, Firebase
+- 🌱  Node Js, Typescript, Mysql, AWS, Firebase
   
   
 
