@@ -2,7 +2,7 @@
 
 Full-Stack Web Developer 💻
 
-### <div align="center">Olá eu me chamo João Pedro Santos, Programador full-stack  developer 👨‍💻 🚀</div>  
+### <div align="center">Olá eu me chamo João Pedro F Santos, Programador Front-End  developer 👨‍💻 🚀</div>  
   
 
 - 🔭  React Js, HTML, CSS, JavaScript,.
